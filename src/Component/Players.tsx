@@ -1,4 +1,4 @@
-import React from 'react';
+
 import type { Iplayer } from '../Typs/PlayerType';
 
 interface PlayersProps {

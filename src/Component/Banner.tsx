@@ -1,4 +1,4 @@
-import React from 'react';
+
 import logo from '../assets/banner-main.png'
 interface BannerProps {
     onClaimCredit: () => void;

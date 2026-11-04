@@ -1,9 +1,10 @@
 export interface Iplayer {
-     playerName: "string",
-    playerImg: "string",
-    origin: "string",
-    playerType: "string",
-    bowilingstyle: "string",
-    battingstyle: "string",
-    price: number
+    id: string;
+    name: string;
+    image: string;
+    country: string;
+    role: string;
+    battingType: number;
+    bowlingType: string;
+    bidingPrice: number;
 }
