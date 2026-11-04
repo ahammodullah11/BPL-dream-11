@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Virat Kohli",
+    "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&q=80&w=600",
+    "country": "India",
+    "role": "Batsman",
+    "battingType": "Right-Hand-Bat",
+    "bowlingType": "Right-arm medium",
+    "bidingPrice": 1500000
+  },
+  {
+    "id": "2",
+    "name": "Shakib Al Hasan",
+    "image": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&q=80&w=600",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "battingType": "Left-Hand-Bat",
+    "bowlingType": "Left-arm orthodox",
+    "bidingPrice": 1200000
+  },
+  {
+    "id": "3",
+    "name": "Babar Azam",
+    "image": "https://images.unsplash.com/photo-1624526267942-ab0ff8a3e972?auto=format&fit=crop&q=80&w=600",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "battingType": "Right-Hand-Bat",
+    "bowlingType": "Right-arm off-spin",
+    "bidingPrice": 1400000
+  },
+  {
+    "id": "4",
+    "name": "Rashid Khan",
+    "image": "https://images.unsplash.com/photo-1512719994953-eabf50895df7?auto=format&fit=crop&q=80&w=600",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "battingType": "Right-Hand-Bat",
+    "bowlingType": "Right-arm leg-break",
+    "bidingPrice": 1100000
+  },
+  {
+    "id": "5",
+    "name": "Ben Stokes",
+    "image": "https://images.unsplash.com/photo-1508802913493-52813074048b?auto=format&fit=crop&q=80&w=600",
+    "country": "England",
+    "role": "All-Rounder",
+    "battingType": "Left-Hand-Bat",
+    "bowlingType": "Right-arm fast-medium",
+    "bidingPrice": 1600000
+  },
+  {
+    "id": "6",
+    "name": "Mitchell Starc",
+    "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?auto=format&fit=crop&q=80&w=600",
+    "country": "Australia",
+    "role": "Bowler",
+    "battingType": "Left-Hand-Bat",
+    "bowlingType": "Left-arm fast",
+    "bidingPrice": 1300000
+  },
+  {
+    "id": "7",
+    "name": "Mustafizur Rahman",
+    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&q=80&w=600",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "battingType": "Left-Hand-Bat",
+    "bowlingType": "Left-arm fast-medium",
+    "bidingPrice": 950000
+  },
+  {
+    "id": "8",
+    "name": "Glenn Maxwell",
+    "image": "https://images.unsplash.com/photo-1543351611-58f69d7c1781?auto=format&fit=crop&q=80&w=600",
+    "country": "Australia",
+    "role": "All-Rounder",
+    "battingType": "Right-Hand-Bat",
+    "bowlingType": "Right-arm off-break",
+    "bidingPrice": 1250000
+  },
+  {
+    "id": "9",
+    "name": "Jos Buttler",
+    "image": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&q=80&w=600",
+    "country": "England",
+    "role": "Wicket-Keeper",
+    "battingType": "Right-Hand-Bat",
+    "bowlingType": "None",
+    "bidingPrice": 1450000
+  },
+  {
+    "id": "10",
+    "name": "Kane Williamson",
+    "image": "https://images.unsplash.com/photo-1624526267942-ab0ff8a3e972?auto=format&fit=crop&q=80&w=600",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "battingType": "Right-Hand-Bat",
+    "bowlingType": "Right-arm off-spin",
+    "bidingPrice": 1350000
+  },
+  {
+    "id": "11",
+    "name": "Pat Cummins",
+    "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?auto=format&fit=crop&q=80&w=600",
+    "country": "Australia",
+    "role": "Bowler",
+    "battingType": "Right-Hand-Bat",
+    "bowlingType": "Right-arm fast",
+    "bidingPrice": 1550000
+  },
+  {
+    "id": "12",
+    "name": "Rohit Sharma",
+    "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&q=80&w=600",
+    "country": "India",
+    "role": "Batsman",
+    "battingType": "Right-Hand-Bat",
+    "bowlingType": "Right-arm off-spin",
+    "bidingPrice": 1500000
+  }
+]
